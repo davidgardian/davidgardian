@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hi, I'm David Gardian 👋
 
-<!--
-**davidgardian/davidgardian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm an IT student from Žilina, Slovakia, interested in web development, Java programming and digital technologies.
 
-Here are some ideas to get you started:
+## 👨‍💻 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🎓 Studying Information and Digital Technologies
+- ☕ Learning Java using IntelliJ IDEA
+- 🌐 Interested in web development and modern technologies
+- 💻 Working with HTML, CSS, Java and Microsoft 365
+- 📍 Žilina, Slovakia
+
+## 🛠️ Technologies & Tools
+
+- Java
+- HTML & CSS
+- IntelliJ IDEA
+- Adobe Photoshop
+- Microsoft 365
+- Git & GitHub
+
+## 🌐 Find Me Online
+
+- 🌍 Website: https://davidgardian.site
+- 💼 LinkedIn: https://www.linkedin.com/in/davidgardian
+- 📸 Instagram: https://www.instagram.com/david.gardian
+- ▶️ YouTube: https://www.youtube.com/@DGardian
